@@ -22,3 +22,6 @@ export async function getServerSideProps() {
 }
 ```
 
+### Choosing SSR vs. CSR
+- Use SSR for content-heavy, SEO-important sites, like blogs or news sites.
+- Use CSR for highly interactive apps or SPAs where SEO is less critical, like dashboards and internal tools.
