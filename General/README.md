@@ -4,3 +4,6 @@
 - [Server-Side Rendering(SSR)](https://github.com/BekCodingAddict/Front-End/blob/master/General/Server-Side-Rendering.md)
 - [Client-Side Rendering(CSR)](https://github.com/BekCodingAddict/Front-End/blob/master/General/Client-Side-Rendering.md)
 - [Hydration](https://github.com/BekCodingAddict/Front-End/blob/master/General/Hydration.md)
+
+
+- [How to find some error tag inside big project ,which you have wrote wrong name?](https://github.com/BekCodingAddict/Front-End/blob/master/General/FindErrorTag.md)
