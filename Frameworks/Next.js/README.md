@@ -5,3 +5,5 @@
 
 
 - [What is Next.js?](https://github.com/BekCodingAddict/Front-End/tree/master/Frameworks/Next.js)
+- [Static & Dynamic rendering](https://github.com/BekCodingAddict/Front-End/blob/master/Frameworks/Next.js/Static-vs-Dynamic-Rendering.md)
+- 
