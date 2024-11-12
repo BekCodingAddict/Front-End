@@ -8,3 +8,4 @@
 - [Static & Dynamic rendering](https://github.com/BekCodingAddict/Front-End/blob/master/Frameworks/Next.js/Static-vs-Dynamic-Rendering.md)
 - [WHat is Partial Pre-Rendering?](https://github.com/BekCodingAddict/Front-End/blob/master/Frameworks/Next.js/Pariial-Pre-Rendering.md)
 - [Caching in Next.js](https://github.com/BekCodingAddict/Front-End/blob/master/Frameworks/Next.js/Caching.md)
+- [<code>reavalidate</code>](https://github.com/BekCodingAddict/Front-End/blob/master/Frameworks/Next.js/Revalidate.md)
