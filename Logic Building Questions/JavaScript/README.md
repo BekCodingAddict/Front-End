@@ -1,2 +1,0 @@
-# JavaScript Logic Building Questions
-
