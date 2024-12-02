@@ -10,3 +10,4 @@
 - [Caching in Next.js](https://github.com/BekCodingAddict/Front-End/blob/master/Frameworks/Next.js/Caching.md)
 - [<code>reavalidate</code>](https://github.com/BekCodingAddict/Front-End/blob/master/Frameworks/Next.js/Revalidate.md)
 - [Server-Client Boundary](https://github.com/BekCodingAddict/Front-End/blob/master/Frameworks/Next.js/Server-Client-Boundary.md)
+- [What is Next.js Middleware](https://github.com/BekCodingAddict/Front-End/blob/master/Frameworks/Next.js/Topics/Next.js-Middleware.md)
