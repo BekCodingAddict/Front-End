@@ -132,10 +132,10 @@ Grid Example
 }
 ```
 ### Summary of Key Responsive Design Techniques:
-Use fluid layouts with relative units like %, em, rem, and vw.
-Apply media queries to target specific screen sizes and adapt layouts.
-Use mobile-first design, which ensures that your design works well on smaller screens first.
-Leverage CSS Grid and Flexbox for flexible and adaptive layouts.
-Optimize images using srcset or <picture> to ensure the best image size is displayed on different screens.
-Add the viewport meta tag to control scaling on mobile devices.
-Hide/show content conditionally using media queries.
+- Use fluid layouts with relative units like %, em, rem, and vw.
+- Apply media queries to target specific screen sizes and adapt layouts.
+- Use mobile-first design, which ensures that your design works well on smaller screens first.
+- Leverage CSS Grid and Flexbox for flexible and adaptive layouts.
+- Optimize images using srcset or <picture> to ensure the best image size is displayed on different screens.
+- Add the viewport meta tag to control scaling on mobile devices.
+- Hide/show content conditionally using media queries.
