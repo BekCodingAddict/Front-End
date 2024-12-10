@@ -3,13 +3,14 @@
 >[!TIP]
 >The var, let, and const keywords in JavaScript are used for variable declaration, but they differ in scope, hoisting, and reassignability:
 
-### 1.<code>var</var>
+### 1.var
 - Scope:
   - Function-scoped: Variables declared with var are confined to the function in which they are declared, not the block.
   - If declared outside a function, they are attached to the global object (window in browsers).
 
 - Hoisting:
    - var declarations are hoisted to the top of their scope, meaning they are accessible before their definition, but their value will be undefined.
+     
 ```javascript
 console.log(x); // undefined
 var x = 10;
@@ -17,7 +18,7 @@ var x = 10;
 - Reassignability:
   - var variables can be reassigned and redeclared in the same scope without error.
  
-### 2.<code>let</var>
+### 2.let
 Scope:
 - Block-scoped: Variables declared with let are confined to the block (e.g., inside {}) in which they are defined.
   
@@ -30,7 +31,7 @@ let y = 20;
 Reassignability:
 - let variables can be reassigned but cannot be redeclared in the same scope.
 
-### 3. <code>const</var>
+### 3.const
 Scope:
 - Like let, const is block-scoped.
   
