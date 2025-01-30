@@ -6,3 +6,4 @@
 - [How do you apply responsive design techniques in CSS?](https://github.com/BekCodingAddict/Front-End/blob/master/Most%20Asked%20Interview%20Questions/CSS/Questions/Apply-Responsive-design-Techniques.md)
 - [What is the difference between inline, inline-block, and block elements?](https://github.com/BekCodingAddict/Front-End/blob/master/Most%20Asked%20Interview%20Questions/CSS/Questions/Inline-inline-block-block-elements.md)
 - [Explain the difference between em, rem, px, and % units.](https://github.com/BekCodingAddict/Front-End/blob/master/Most%20Asked%20Interview%20Questions/CSS/Questions/em-rem-px-and-%25-units.md)
+- [How does flexbox and CSS grid work?](https://github.com/BekCodingAddict/Front-End/blob/master/Most%20Asked%20Interview%20Questions/CSS/Questions/How-does-flexbox-and%20Grid-works.md)
