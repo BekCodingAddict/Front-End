@@ -9,3 +9,4 @@
 - [ Difference between == and ===?](https://github.com/BekCodingAddict/Front-End/blob/master/Most%20Asked%20Interview%20Questions/JavaScript/Questions/Difference-between-double-and-tree-assign-operator.md)
 - [What is event delegation?](https://github.com/BekCodingAddict/Front-End/blob/master/Most%20Asked%20Interview%20Questions/JavaScript/Questions/What-is-event-delegation.md)
 - [ Explain closures and give an example.](https://github.com/BekCodingAddict/Front-End/blob/master/Most%20Asked%20Interview%20Questions/JavaScript/Questions/Explain-closures-and-give-an-example.md)
+- [How does async/await work?](https://github.com/BekCodingAddict/Front-End/blob/master/Most%20Asked%20Interview%20Questions/JavaScript/Questions/How-does-async-await-works%3F.md)
