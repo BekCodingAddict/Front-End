@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Event Delegation Example</title>
+</head>
+<body>
+
+    <div id="button-container">
+        <button class="btn">Button 1</button>
+        <button class="btn">Button 2</button>
+        <button class="btn">Button 3</button>
+    </div>
+
+    <script>
+        document.getElementById("button-container").addEventListener("click", function(event) {
+            if (event.target.classList.contains("btn")) {
+                alert(event.target.textContent + " clicked!");
+            }
+        });
+    </script>
+
+</body>
+</html>
