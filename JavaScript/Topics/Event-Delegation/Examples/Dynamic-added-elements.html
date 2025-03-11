@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Event Delegation - Dynamic Elements</title>
+</head>
+<body>
+
+    <button id="add-btn">Add Button</button>
+    <div id="button-container"></div>
+
+    <script>
+        document.getElementById("button-container").addEventListener("click", function(event) {
+            if (event.target.classList.contains("btn")) {
+                alert(event.target.textContent + " clicked!");
+            }
+        });
+
+        document.getElementById("add-btn").addEventListener("click", function() {
+            const newButton = document.createElement("button");
+            newButton.className = "btn";
+            newButton.textContent = "New Button";
+            document.getElementById("button-container").appendChild(newButton);
+        });
+    </script>
+
+</body>
+</html>
