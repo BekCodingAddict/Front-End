@@ -11,6 +11,6 @@
 - [ Explain closures and give an example.](https://github.com/BekCodingAddict/Front-End/blob/master/Most%20Asked%20Interview%20Questions/JavaScript/Questions/Explain-closures-and-give-an-example.md)
 - [How does async/await work?](https://github.com/BekCodingAddict/Front-End/blob/master/Most%20Asked%20Interview%20Questions/JavaScript/Questions/async-await-works.md)
 - [What is DOM and BOM ?](https://github.com/BekCodingAddict/Front-End/blob/master/Most%20Asked%20Interview%20Questions/General/Questions/What-is-DOM-and-BOM%3F.md)
-- [What’s the difference between map(), forEach(), and reduce()?](https://github.com/BekCodingAddict/Front-End/blob/master/Most%20Asked%20Interview%20Questions/JavaScript/Questions/What-is-diffrent-between-map()-forEach()-reduce()%3F.md)
+- [What’s the difference between map(), forEach(), and reduce()?](https://github.com/BekCodingAddict/Front-End/blob/master/Most%20Asked%20Interview%20Questions/JavaScript/Questions/map()-forEach()-reduce()-diffrence.md)
 - [What is hoisting in JavaScript?](https://github.com/BekCodingAddict/Front-End/blob/master/Most%20Asked%20Interview%20Questions/JavaScript/Questions/Hosting.md)
 - [What are Debouncing and Throttling?](https://github.com/BekCodingAddict/Front-End/blob/master/Most%20Asked%20Interview%20Questions/JavaScript/Questions/2.Debouncing-and-Throttling.md)    
