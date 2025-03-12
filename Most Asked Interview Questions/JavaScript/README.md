@@ -13,4 +13,5 @@
 - [What is DOM and BOM ?](https://github.com/BekCodingAddict/Front-End/blob/master/Most%20Asked%20Interview%20Questions/General/Questions/What-is-DOM-and-BOM%3F.md)
 - [What’s the difference between map(), forEach(), and reduce()?](https://github.com/BekCodingAddict/Front-End/blob/master/Most%20Asked%20Interview%20Questions/JavaScript/Questions/map()-forEach()-reduce()-diffrence.md)
 - [What is hoisting in JavaScript?](https://github.com/BekCodingAddict/Front-End/blob/master/Most%20Asked%20Interview%20Questions/JavaScript/Questions/Hosting.md)
-- [What are Debouncing and Throttling?](https://github.com/BekCodingAddict/Front-End/blob/master/Most%20Asked%20Interview%20Questions/JavaScript/Questions/2.Debouncing-and-Throttling.md)    
+- [What are Debouncing and Throttling?](https://github.com/BekCodingAddict/Front-End/blob/master/Most%20Asked%20Interview%20Questions/JavaScript/Questions/2.Debouncing-and-Throttling.md)
+- [How does the event loop work in JavaScript?](https://github.com/BekCodingAddict/Front-End/blob/master/Most%20Asked%20Interview%20Questions/JavaScript/Questions/How-does-the-event-loop-works-in-Javascript.md)    
