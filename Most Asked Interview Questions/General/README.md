@@ -6,3 +6,4 @@
 - [ What is a Progressive Web App (PWA)?](https://github.com/BekCodingAddict/Front-End/blob/master/Most%20Asked%20Interview%20Questions/General/Questions/Progressive-Web-App.md)
 - [What is CORS (Cross-Origin Resource Sharing)?](https://github.com/BekCodingAddict/Front-End/blob/master/General/Questions/CORS-and-Handling.md)
 - [What is localStorage, sessionStorage, and cookies?](https://github.com/BekCodingAddict/Front-End/blob/master/Most%20Asked%20Interview%20Questions/General/Questions/localStorage-sessionStorage-cookies.md)
+- [Folder Structure for State Management Libraries](https://github.com/BekCodingAddict/Front-End/blob/master/Most%20Asked%20Interview%20Questions/General/Questions/Folder-Structure-of-State-Managment-Libraryes.md)
