@@ -18,3 +18,5 @@
 - [What are Promises, and how do they differ from callbacks?](https://github.com/BekCodingAddict/Front-End/blob/master/Most%20Asked%20Interview%20Questions/JavaScript/Questions/Promises-differ-from-Callbacks.md)
 - [What is the difference between shallow copy and deep copy?](https://github.com/BekCodingAddict/Front-End/blob/master/Most%20Asked%20Interview%20Questions/JavaScript/Questions/Diffrence-between-shallow-and-deep-copy.md)
 - [How does garbage collection work in JavaScript?](https://github.com/BekCodingAddict/Front-End/blob/master/Most%20Asked%20Interview%20Questions/JavaScript/Questions/Garbage-Collection-in-js.md)
+- [Explain the prototype chain and how inheritance works in JavaScript](https://github.com/BekCodingAddict/Front-End/blob/master/Most%20Asked%20Interview%20Questions/JavaScript/Questions/Prototype-Chain-and-Inheritance-works.md)
+- 
