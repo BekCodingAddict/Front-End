@@ -15,4 +15,5 @@
 - [What is hoisting in JavaScript?](https://github.com/BekCodingAddict/Front-End/blob/master/Most%20Asked%20Interview%20Questions/JavaScript/Questions/Hosting.md)
 - [What are Debouncing and Throttling?](https://github.com/BekCodingAddict/Front-End/blob/master/Most%20Asked%20Interview%20Questions/JavaScript/Questions/2.Debouncing-and-Throttling.md)
 - [How does the event loop work in JavaScript?](https://github.com/BekCodingAddict/Front-End/blob/master/Most%20Asked%20Interview%20Questions/JavaScript/Questions/How-does-the-event-loop-works-in-Javascript.md)
-- [What are Promises, and how do they differ from callbacks?](https://github.com/BekCodingAddict/Front-End/blob/master/Most%20Asked%20Interview%20Questions/JavaScript/Questions/Promises-differ-from-Callbacks.md)  
+- [What are Promises, and how do they differ from callbacks?](https://github.com/BekCodingAddict/Front-End/blob/master/Most%20Asked%20Interview%20Questions/JavaScript/Questions/Promises-differ-from-Callbacks.md)
+- [What is the difference between shallow copy and deep copy?](https://github.com/BekCodingAddict/Front-End/blob/master/Most%20Asked%20Interview%20Questions/JavaScript/Questions/Diffrence-between-shallow-and-deep-copy.md)
