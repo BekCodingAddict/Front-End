@@ -13,4 +13,5 @@
 - [What is the Virtual DOM, and how does it work?](https://github.com/BekCodingAddict/Front-End/blob/master/Most%20Asked%20Interview%20Questions/React/Questions/Virtual-DOM-and-How-does-it-work.md)
 - [Explain the React component lifecycle methods.](https://github.com/BekCodingAddict/Front-End/blob/master/Most%20Asked%20Interview%20Questions/React/Questions/Lifecycle-Methods.md)
 - [What are controlled and uncontrolled components in React?](https://github.com/BekCodingAddict/Front-End/blob/master/Most%20Asked%20Interview%20Questions/React/Questions/Controled-and-Uncontroled-Components.md)
+- [What is the purpose of useEffect and how does it work?](https://github.com/BekCodingAddict/Front-End/blob/master/Most%20Asked%20Interview%20Questions/React/Questions/useEffect-Purpose.md)
   
