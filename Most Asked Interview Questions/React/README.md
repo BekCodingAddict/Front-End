@@ -15,5 +15,6 @@
 - [What are controlled and uncontrolled components in React?](https://github.com/BekCodingAddict/Front-End/blob/master/Most%20Asked%20Interview%20Questions/React/Questions/Controled-and-Uncontroled-Components.md)
 - [What is the purpose of useEffect and how does it work?](https://github.com/BekCodingAddict/Front-End/blob/master/Most%20Asked%20Interview%20Questions/React/Questions/useEffect-Purpose.md)
 - [What are React Hooks, and why were they introduced?](https://github.com/BekCodingAddict/Front-End/blob/master/Most%20Asked%20Interview%20Questions/React/Questions/React-Hooks.md)
+- [What is the difference between useMemo and useCallback?](https://github.com/BekCodingAddict/Front-End/blob/master/Most%20Asked%20Interview%20Questions/React/Questions/useMemo-useContext.md)
   
   
