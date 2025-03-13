@@ -17,4 +17,5 @@
 - [What are React Hooks, and why were they introduced?](https://github.com/BekCodingAddict/Front-End/blob/master/Most%20Asked%20Interview%20Questions/React/Questions/React-Hooks.md)
 - [What is the difference between useMemo and useCallback?](https://github.com/BekCodingAddict/Front-End/blob/master/Most%20Asked%20Interview%20Questions/React/Questions/useMemo-useContext.md)
 - [What is useRef, and when should you use it?](https://github.com/BekCodingAddict/Front-End/blob/master/Most%20Asked%20Interview%20Questions/React/Questions/useRef.md)
+- [How does useReducer differ from useState?](https://github.com/BekCodingAddict/Front-End/blob/master/Most%20Asked%20Interview%20Questions/React/Questions/useReducer-and-useState-difference.md)
   
