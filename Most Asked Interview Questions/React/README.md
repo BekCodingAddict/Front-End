@@ -21,4 +21,5 @@
 - [How do you handle global state in a large React application?](https://github.com/BekCodingAddict/Front-End/blob/master/Most%20Asked%20Interview%20Questions/React/Questions/Handle-Global-State-Large-App.md)
 - [What is React Suspense, and how does it work?](https://github.com/BekCodingAddict/Front-End/blob/master/Most%20Asked%20Interview%20Questions/React/Questions/React-Suspense-How-it-works.md)
 - [How do you optimize React performance?](https://github.com/BekCodingAddict/Front-End/blob/master/Most%20Asked%20Interview%20Questions/React/Questions/Optimize-React-Performance.md)
+- [What is code splitting, and how do you implement it in React?](https://github.com/BekCodingAddict/Front-End/blob/master/Most%20Asked%20Interview%20Questions/React/Questions/Code-Splitting.md)
   
