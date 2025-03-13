@@ -19,4 +19,5 @@
 - [What is useRef, and when should you use it?](https://github.com/BekCodingAddict/Front-End/blob/master/Most%20Asked%20Interview%20Questions/React/Questions/useRef.md)
 - [How does useReducer differ from useState?](https://github.com/BekCodingAddict/Front-End/blob/master/Most%20Asked%20Interview%20Questions/React/Questions/useReducer-and-useState-difference.md)
 - [How do you handle global state in a large React application?](https://github.com/BekCodingAddict/Front-End/blob/master/Most%20Asked%20Interview%20Questions/React/Questions/Handle-Global-State-Large-App.md)
+- [What is React Suspense, and how does it work?](https://github.com/BekCodingAddict/Front-End/blob/master/Most%20Asked%20Interview%20Questions/React/Questions/React-Suspense-How-it-works.md)
   
