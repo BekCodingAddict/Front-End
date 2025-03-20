@@ -23,4 +23,4 @@
 - [How do you optimize React performance?](https://github.com/BekCodingAddict/Front-End/blob/master/Most%20Asked%20Interview%20Questions/React/Questions/Optimize-React-Performance.md)
 - [What is code splitting, and how do you implement it in React?](https://github.com/BekCodingAddict/Front-End/blob/master/Most%20Asked%20Interview%20Questions/React/Questions/Code-Splitting.md)
 - [How does React handle reconciliation?](https://github.com/BekCodingAddict/Front-End/blob/master/Most%20Asked%20Interview%20Questions/React/Questions/Reconciliation.md)
-  
+- [Can browser read directly jsx file?](https://github.com/BekCodingAddict/Front-End/blob/master/Most%20Asked%20Interview%20Questions/React/Questions/Can-Browser-Read-Directly-jsx.md)
