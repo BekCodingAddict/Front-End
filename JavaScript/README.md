@@ -5,3 +5,5 @@
 - [Module System: CommonJS, AMD, UMD, ES6](https://github.com/baeharam/Must-Know-About-Frontend/blob/main/Notes/javascript/module.md)
 - [Call Stack and Heap](https://github.com/baeharam/Must-Know-About-Frontend/blob/main/Notes/javascript/stack-heap.md)
 - [Javascript Prototype](https://github.com/baeharam/Must-Know-About-Frontend/blob/main/Notes/javascript/prototype.md)
+- [Strict mode](https://github.com/baeharam/Must-Know-About-Frontend/blob/main/Notes/javascript/strict-mode.md)
+
