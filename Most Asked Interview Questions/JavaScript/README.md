@@ -20,3 +20,4 @@
 - [How does garbage collection work in JavaScript?](https://github.com/BekCodingAddict/Front-End/blob/master/Most%20Asked%20Interview%20Questions/JavaScript/Questions/Garbage-Collection-in-js.md)
 - [Explain the prototype chain and how inheritance works in JavaScript](https://github.com/BekCodingAddict/Front-End/blob/master/Most%20Asked%20Interview%20Questions/JavaScript/Questions/Prototype-Chain-and-Inheritance-works.md)
 - [What are diffrent type of errors in javascript?](https://github.com/BekCodingAddict/Front-End/blob/master/Most%20Asked%20Interview%20Questions/JavaScript/Questions/Javascript-Errors.md)
+- [What is AJAX?](https://github.com/baeharam/Must-Know-About-Frontend/blob/main/Notes/javascript/ajax.md)
