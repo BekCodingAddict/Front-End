@@ -7,4 +7,5 @@
 - [Javascript Prototype](https://github.com/baeharam/Must-Know-About-Frontend/blob/main/Notes/javascript/prototype.md)
 - [Strict mode](https://github.com/baeharam/Must-Know-About-Frontend/blob/main/Notes/javascript/strict-mode.md)
 - [How the<code>new</code> works in JS?](https://github.com/baeharam/Must-Know-About-Frontend/blob/main/Notes/javascript/new.md)
+- [ES6 (2015) features](https://github.com/baeharam/Must-Know-About-Frontend/blob/main/Notes/javascript/es6.md)
 
